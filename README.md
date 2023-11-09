@@ -6,3 +6,13 @@ En la primera versión se incluyen:
 - La motivación, propósito y audiencia del proyecto
 - El análisis exploratorio (EDA), e
 - Interrogantes principales del conjunto de datos
+
+En la versión final se incluyen el proyecto finalizado junto a su documentación. Estos últimos contienen: 
+- La adecuación de variables categoricas y numéricas para entrenar un modelo
+- Transformaciones de escalado al dataset anterior
+- La reducción de la dimensionalidad
+- La selección y entrenamiento de un algoritmo de clasificación
+- Una segunda ronda de feature engineering
+- Ingeniería de atributos y selección de variables
+- Una ronda de CrossValidation e Hipertunning de parámetros del modelo, y
+- Una conclusión final.
